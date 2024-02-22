@@ -3,4 +3,4 @@ logo: https://github.com/Anusha1901/Anusha1901/blob/main/assets/IMG_20210329_182
 description: Aspiring Data Scientist
 show_downloads: true
 theme: jekyll-theme-minimal
-remote_theme: pages-themes/minimal@v0.2.0
+#remote_theme: pages-themes/minimal@v0.2.0
