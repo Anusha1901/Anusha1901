@@ -1,6 +1,13 @@
-# Aspiring Data Scientist
+# Aspiring Data Scientist/Data Analyst
 
-#### Technical Skills: Python, SQL, Azure, R, Tableau, Excel
+#### Technical Skills: 
+Languages and Tools : Python, SQL(MySQL), Tableau, Excel, Git, Github
+
+Libraries & Frameworks : Numpy, Pandas,Matplotlib, Seaborn, SkLearn
+
+Data Science& Machine Learning : Linear and Logisticregression, KNN, Decision Tree, Random forest, SVM and K Means
+
+Mathmatics for ML & DL : Statistics, Probability, Matrices
 
 ## Education								       		
 - M.Sc., Data Science	| University of Mumbai (_2022-2024_)	 			        		
