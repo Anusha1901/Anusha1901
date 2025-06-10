@@ -13,10 +13,6 @@ NLP Tools : NLTK, SpaCy, Transformers
 
 Cloud Platforms : AWS, GCP
 
-## Education								       		
-- M.Sc., Data Science	| University of Mumbai (_2022-2024_)	 			        		
-- B.Sc., Computer Science | University of Mumbai (_2019-2022_)
-
 ## Internships
 **Data Analyst Intern @ DataKind  (_September 2024 - November 2024_)**
 - Predicted high-risk housing regions using predictive models (85% accuracy), leading to a 15% increase in housing
