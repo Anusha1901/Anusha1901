@@ -13,19 +13,6 @@ NLP Tools : NLTK, SpaCy, Transformers
 
 Cloud Platforms : AWS, GCP
 
-## Internships
-**Data Analyst Intern @ DataKind  (_September 2024 - November 2024_)**
-- Predicted high-risk housing regions using predictive models (85% accuracy), leading to a 15% increase in housing
-  affordability.
-- Delivered actionable insights to policymakers, supporting sustainable housing strategies for 1.2 million households.
-
-**Data Science and Machine learning Intern @ Microrbital Labs (_October 2023 - November 2023_)**
-- Created a machine learning model to analyze customer data and predict future trends and behaviors
-- Used machine learning algorithms to identify and classify large datasets, resulting in actionable insights for business stakeholders
-
-**Data Analyst Intern @ TCS ION (_August 2023 - October 2023_)**
-- Utilized data visualization tools to create interactive graphical representations of financial data
-- Developed a predictive model that accurately predicts salary of employees using machine learning
 
 ## Certifications
 ### Data Analysis Using Python - [IBM](https://drive.google.com/file/d/1r89lqyp8W6xnWdwtDrHunm7rvvuTEw_3/view?usp=drive_link)
